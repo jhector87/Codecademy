@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css" />
+		<title>My Photo Page</title>
+	</head>
+	<body>
+	<table>
+
+	    <tbody>	<thead>
+	        <tr>
+	            <th>Name</th>
+	            <thead>
+	        <tr>
+	            <td><a href="https://www.life.com"><img src="http://www.fcaministers.com/wp-content/uploads/2013/08/life-is-the-word.jpg"/></a></td>
+	            <td><a href="www.creationswap.com"><img src="http://www.creationswap.com/artwork/1/9/53/1953/1953_1953_5.png"/></a></td>
+	            <td><a href="avacom.at/love"><img src="http://avacom.at.ua/_ph/5/174623278.jpg"/></a></td>
+	       </tr>
+	        <tr>
+	            <td><a href="https://www.love.com"><img src="http://xmn.cc/xmn_wp_install/wp-content/uploads/2012/07/Love.jpg"/></a></td>
+	            <td><a href="http://www.wallpapercave.com"><img src="http://wallpapercave.com/wp/iHdO5ZQ.jpg"/></a></td>
+	            <td><a href="http://www.jadide.ir"><img src="http://jadide.ir/wp-content/uploads/2015/12/love1.jpg"/></a></td>
+	        </tr>
+	        <tr>
+	            <td><a href="http://www.smile.com"><img src="http://cdn2.bigcommerce.com/server2800/zdnpd/products/85/images/315/-smallfreestanding-smile__38359.1357205019.1280.1280.jpg?c=2"/></a></td>
+	            <td><a href="http://www.natgeocreative.com"><img src="http://www.natgeocreative.com/comp/04/512/1463749.jpg"/></a></td>
+	            <td><a href="http://cdn.pcwallart.com"><img src="http://cdn.pcwallart.com/images/smile-the-book-wallpaper-1.jpg"/></a></td>
+	        </tr>
+	    </tbody>
+	    </thead>
+	</table>
+	    
+	    
+	</body>
+</html>
